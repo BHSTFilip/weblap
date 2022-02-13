@@ -289,7 +289,7 @@ section .title::after{
     transition: all 0.3s ease;
 }
 .services .serv-content .card:hover{
-    background: rgb(95, 95, 95);;
+    background: rgb(47, 132, 153);;
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
