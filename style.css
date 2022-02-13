@@ -299,7 +299,7 @@ section .title::after{
 }
 .services .serv-content .card i{
     font-size: 50px;
-    color: rgb(0, 0, 0);;
+    color: color: #fff;
     transition: color 0.3s ease;
 }
 .services .serv-content .card:hover i{
